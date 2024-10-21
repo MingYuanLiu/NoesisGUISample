@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "it1MWoHNvURMYOqnZb6rC5PtptfwXUB/YfyGMdZWnebfNV7ME9srMyZqrPGFdGbYLJXtIYeJ9T6/AHUSbPgUXg==",
+  "success": true,
+  "projectFilePath": "H:\\Workspace\\AI_UI\\NoesisGUI-UE5.3-3.2.4-Indie\\Assets\\Inventory\\Inventory-blend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liumi\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.37\\microsoft.xaml.behaviors.wpf.1.1.37.nupkg.sha512",
+    "C:\\Users\\liumi\\.nuget\\packages\\noesis.gui.extensions\\3.0.30\\noesis.gui.extensions.3.0.30.nupkg.sha512",
+    "C:\\Users\\liumi\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\liumi\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\liumi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\liumi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

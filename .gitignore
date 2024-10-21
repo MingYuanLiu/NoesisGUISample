@@ -1,0 +1,7 @@
+Binaries/
+Intermediate/
+Plugins/NoesisGUI/Binaries/
+Plugins/NoesisGUI/Intermediate/
+.vs/
+.idea/
+Samples.sln
